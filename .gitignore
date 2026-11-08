@@ -1,0 +1,7 @@
+dist/
+Config.cs
+bin/
+obj/
+.vs/
+*.user
+*.exe
